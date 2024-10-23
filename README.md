@@ -19,7 +19,7 @@ The Personalized Disease-Specific Nutrition Recommendation System aims to develo
 ## Installation:
 1. Clone the repository :
 ```
-git clone https://github.com/your-username/Nutrition-Recommendation-System.git
+git clone https://github.com/Paul-Andrew-15/Personalized-Disease-Specific-Nutrition-Recommendation-System.git
 ```
 2. Install the required packages.
 3. Download the pre-trained Nutrition recommendation model and label mappings.
