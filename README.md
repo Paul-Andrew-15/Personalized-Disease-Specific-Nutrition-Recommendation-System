@@ -156,8 +156,13 @@ joblib.dump(model, 'nutrition_recommendation_model.pkl')
 
 ## Output:
 Nutrition Recommendation System
-![](./ot3.PNG)
-![](./ot4.PNG)
+### Home:
+![](./Health1.PNG)
+### Recommendation page:
+![](./Health2.PNG)
+![](./Health3.PNG)
+### About us:
+![](./Health4.PNG)
 
 ## Result:
 The nutrition recommendation model, built using the Random Forest algorithm, demonstrates strong performance on both training and testing set:
